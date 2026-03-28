@@ -1,9 +1,9 @@
-public class Person
+public class Pessoa
 {
     public int age;
     public string name;
 
-    public Person(string name)
+    public Pessoa(string name)
     {
         this.name = name;
         this.age = 35;
@@ -14,10 +14,4 @@ public class Person
         return this.age;
     }
 
-    public void putAge(int age)
-    {
-        this.age = age;
-        return;
-    }
-    
 }
