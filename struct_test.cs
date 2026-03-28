@@ -41,4 +41,5 @@ struct Student
     public int GetGrade(){
         return this.grade;
     }
+    
 }
