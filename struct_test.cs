@@ -50,6 +50,8 @@ unsafe
 for (int i=0; i<10; i++) Console.Write($"{vector[i]} ");
 Console.Write("\n");
 
+Console.WriteLine("FIM");
+
 //=============================================== STRUCT AND CLASS =======================================================
 struct Student
 {
