@@ -49,8 +49,18 @@ unsafe
 
 for (int i=0; i<10; i++) Console.Write($"{vector[i]} ");
 Console.Write("\n");
+Console.Write("\n");
 
-Console.WriteLine("FIM");
+// TESTING INPUT READING
+Console.Write("Type a string: ");
+string? inputVariable = Console.ReadLine();
+Console.WriteLine($"\"{inputVariable ?? "null string"}\" was your string input\n");
+
+Console.Write("Type a number: ");
+int.TryParse(Console.ReadLine(), out int intVariable);
+Console.WriteLine($"\"{intVariable}\" was your int input\n");
+
+Console.WriteLine("END");
 
 //=============================================== STRUCT AND CLASS =======================================================
 struct Student
