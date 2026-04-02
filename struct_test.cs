@@ -1,7 +1,5 @@
 
 // STRUCT TEST
-using System.Runtime.CompilerServices;
-
 Student teste = new Student("Ralph");
 int variable = teste.GetGrade();
 Console.WriteLine($"test1 = {variable}");
