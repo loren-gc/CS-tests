@@ -1,3 +1,6 @@
+using System;
+using System.Runtime.InteropServices;
+
 // STRUCT TEST
 Student teste = new Student("Ralph");
 int variable = teste.GetGrade();
