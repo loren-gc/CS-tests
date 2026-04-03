@@ -36,7 +36,6 @@ int[] vector = list.ToArray();
 
 for (int i=0; i<10; i++) Console.Write($"{vector[i]} ");
 Console.Write("\n");
-Console.Write("\n");
 
 unsafe
 {
@@ -48,17 +47,20 @@ unsafe
 }
 
 for (int i=0; i<10; i++) Console.Write($"{vector[i]} ");
-Console.Write("\n");
-Console.Write("\n");
+Console.Write("\n\n");
 
 // TESTING INPUT READING
 Console.Write("Type a string: ");
 string? inputVariable = Console.ReadLine();
-Console.WriteLine($"\"{inputVariable ?? "null string"}\" was your string input\n");
+Console.WriteLine($"\"{inputVariable ?? "null string"}\" was your string input");
 
 Console.Write("Type a number: ");
 int.TryParse(Console.ReadLine(), out int intVariable);
 Console.WriteLine($"\"{intVariable}\" was your int input\n");
+
+// TESTING MEMORY CLASS (MEMORY ALLOCATION)
+Memory memoryTest = new Memory(5);
+memoryTest.vectorCreation();
 
 Console.WriteLine("END");
 

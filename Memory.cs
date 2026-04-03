@@ -18,8 +18,8 @@ public class Memory
 			IntPtr p = Marshal.AllocHGlobal(size);
 			int* pointer = (int*)p.ToPointer();
 			for (int i=0; i<this.memoryQtd; i++) pointer[i] = i;
-			for (int i=0; i<this.memoryQtd; i++) Console.WriteLine($"{pointer[i] }");
-			Console.WriteLine("\n\n");
+			for (int i=0; i<this.memoryQtd; i++) Console.Write($"{pointer[i] }");
+			Console.Write("\n");
 		}
 	}
 	
