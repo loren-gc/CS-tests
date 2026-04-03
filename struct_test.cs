@@ -1,4 +1,3 @@
-
 // STRUCT TEST
 Student teste = new Student("Ralph");
 int variable = teste.GetGrade();
@@ -60,7 +59,7 @@ Console.WriteLine($"\"{intVariable}\" was your int input\n");
 
 Console.WriteLine("END");
 
-//=============================================== STRUCT AND CLASS =======================================================
+//=============================================== STRUCT =========================================================
 struct Student
 {
     public int grade;
