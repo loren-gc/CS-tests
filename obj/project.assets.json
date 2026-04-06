@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/loren_gc/Documentos/testes-cs/CS-tests/test.csproj",
+      "projectUniqueName": "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj",
       "projectName": "test",
-      "projectPath": "/home/loren_gc/Documentos/testes-cs/CS-tests/test.csproj",
+      "projectPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj",
       "packagesPath": "/home/loren_gc/.nuget/packages/",
-      "outputPath": "/home/loren_gc/Documentos/testes-cs/CS-tests/obj/",
+      "outputPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/loren_gc/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.105/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
