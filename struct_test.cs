@@ -68,7 +68,12 @@ class Program
         Memory memoryTest = new Memory(5);
         memoryTest.vectorCreation();
 
+        int a = 10, b = 80;
+        TestStruct test = new TestStruct();
+        Console.WriteLine($"adding = {test.addMethod(a, b)}");
+
         Console.WriteLine("END");
+
     }
 
 }
@@ -87,4 +92,12 @@ struct Student
         return this.grade;
     }
     
+}
+
+struct TestStruct
+{
+    public int addMethod(int x, int y)
+    {
+        return x+y;
+    }
 }
