@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj": {}
+    "/home/loren_gc/Documentos/testesCSharp/CS-tests/tests1/test.csproj": {}
   },
   "projects": {
-    "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj": {
+    "/home/loren_gc/Documentos/testesCSharp/CS-tests/tests1/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj",
+        "projectUniqueName": "/home/loren_gc/Documentos/testesCSharp/CS-tests/tests1/test.csproj",
         "projectName": "test",
-        "projectPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/test.csproj",
+        "projectPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/tests1/test.csproj",
         "packagesPath": "/home/loren_gc/.nuget/packages/",
-        "outputPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/obj/",
+        "outputPath": "/home/loren_gc/Documentos/testesCSharp/CS-tests/tests1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/loren_gc/.nuget/NuGet/NuGet.Config"
