@@ -1,0 +1,15 @@
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/bin/Debug/net10.0/tests2
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/bin/Debug/net10.0/tests2.deps.json
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/bin/Debug/net10.0/tests2.runtimeconfig.json
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/bin/Debug/net10.0/tests2.dll
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/bin/Debug/net10.0/tests2.pdb
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.GeneratedMSBuildEditorConfig.editorconfig
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.AssemblyInfoInputs.cache
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.AssemblyInfo.cs
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.csproj.CoreCompileInputs.cache
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.sourcelink.json
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.dll
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/refint/tests2.dll
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.pdb
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/tests2.genruntimeconfig.cache
+/home/loren_gc/Documentos/testesCSharp/CS-tests/tests2/obj/Debug/net10.0/ref/tests2.dll
